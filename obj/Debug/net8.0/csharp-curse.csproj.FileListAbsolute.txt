@@ -1,0 +1,14 @@
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/csharp-curse.GeneratedMSBuildEditorConfig.editorconfig
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/csharp-curse.AssemblyInfoInputs.cache
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/csharp-curse.AssemblyInfo.cs
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/csharp-curse.csproj.CoreCompileInputs.cache
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/bin/Debug/net8.0/csharp-curse
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/bin/Debug/net8.0/csharp-curse.deps.json
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/bin/Debug/net8.0/csharp-curse.runtimeconfig.json
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/bin/Debug/net8.0/csharp-curse.dll
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/bin/Debug/net8.0/csharp-curse.pdb
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/csharp-curse.dll
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/refint/csharp-curse.dll
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/csharp-curse.pdb
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/csharp-curse.genruntimeconfig.cache
+/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/obj/Debug/net8.0/ref/csharp-curse.dll

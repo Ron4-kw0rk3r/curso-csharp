@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SsxRMSel1ynE9+0jAizWzXJ92TlPkFAgPJdmKnSYf0qDHUioxz+yyQhdVituQq5ZvTm4aO8wlJgGz+2apDmV6g==",
+  "success": true,
+  "projectFilePath": "/home/s3p1ankrw/Documentos/projects-ronv/csharp-curse/csharp-curse.csproj",
+  "expectedPackageFiles": [
+    "/home/s3p1ankrw/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
